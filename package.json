@@ -1,0 +1,28 @@
+{
+  "name": "intersection-observer-lazyload",
+  "version": "0.0.1",
+  "description": "Lazy load using the Intersection Observer API Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forberg/intersection-observer-lazyload.git"
+  },
+  "keywords": [
+    "lazyload",
+    "intersection-observer"
+  ],
+  "author": "Mads Erik Forberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forberg/intersection-observer-lazyload/issues"
+  },
+  "homepage": "https://github.com/forberg/intersection-observer-lazyload#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-intersection-observer": "^1.0.0"
+  }
+}
